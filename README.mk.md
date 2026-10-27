@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://assetdesk.mk"><img src="https://img.shields.io/badge/AssetDesk-Asset_Management-16243A?style=for-the-badge&labelColor=009D83" alt="AssetDesk text badge (official logo asset pending)" /></a>
+<a href="https://assetdesk.mk"><img src="assets/assetdesk-hero.svg" alt="AssetDesk — визуелен идентитет на производот" width="580" /></a>
 
 <br/><br/>
 
