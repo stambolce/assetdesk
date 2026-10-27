@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://assetdesk.mk"><img src="assets/assetdesk-hero.svg" alt="AssetDesk — визуелен идентитет на производот" width="580" /></a>
-
-<br/><br/>
-
 <img src="assets/assetdesk-hero.svg" alt="AssetDesk — платформа на PROCESS IN" width="100%" />
 
 <br/>
