@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://assetdesk.mk"><img src="assets/assetdesk-hero.svg" alt="AssetDesk — official PROCESS IN product showcase" width="100%" /></a>
+# AssetDesk
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/assetdesk-hero.svg" alt="AssetDesk — prezantim vizual i produktit" width="100%" />
+
+**Pajisjet, përgjegjësia dhe historiku në një vend.**
 
 [![Official Website](https://img.shields.io/badge/ASSETDESK_MK-OFFICIAL_WEBSITE-009A7B?style=for-the-badge)](https://assetdesk.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PLATFORM-15233B?style=for-the-badge)](https://assetdesk.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-009A7B?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Pajisjet, përgjegjësia dhe historiku në një vend.
-
-**Pajisjet, përgjegjësia dhe historiku në një vend.**
+**LIVE**
 
 </div>
-
----
 
 ## Rrjedhë e plotë, jo mjete të shkëputura
 
@@ -80,7 +72,7 @@ ITAM, regjistër mjetesh fikse, inventar pajisjesh, gjurmim QR, formular dorëzi
 |---|---|
 | Produkti | AssetDesk |
 | Faqja zyrtare | [assetdesk.mk](https://assetdesk.mk) |
-| Kategoria | Menaxhim mjetesh IT dhe fizike |
+| Kategoria | Menaxhim mjetesh IT, inventar dhe procese QR |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

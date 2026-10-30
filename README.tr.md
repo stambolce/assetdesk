@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://assetdesk.mk"><img src="assets/assetdesk-hero.svg" alt="AssetDesk — official PROCESS IN product showcase" width="100%" /></a>
+# AssetDesk
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/assetdesk-hero.svg" alt="AssetDesk — ürün görsel sunumu" width="100%" />
+
+**Ekipman, sorumluluk ve geçmiş tek yerde.**
 
 [![Official Website](https://img.shields.io/badge/ASSETDESK_MK-OFFICIAL_WEBSITE-009A7B?style=for-the-badge)](https://assetdesk.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PLATFORM-15233B?style=for-the-badge)](https://assetdesk.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-009A7B?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Ekipman, sorumluluk ve geçmiş tek yerde.
-
-**Ekipman, sorumluluk ve geçmiş tek yerde.**
+**LIVE**
 
 </div>
-
----
 
 ## Kopuk araçlar yerine tam akış
 
@@ -80,7 +72,7 @@ ITAM, sabit varlık kaydı, ekipman envanteri, QR takibi, teslim formu, zimmet, 
 |---|---|
 | Ürün | AssetDesk |
 | Resmî site | [assetdesk.mk](https://assetdesk.mk) |
-| Kategori | BT ve fiziksel varlık yönetimi |
+| Kategori | BT varlık yönetimi, envanter ve QR akışları |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
