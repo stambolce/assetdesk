@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://assetdesk.mk"><img src="assets/assetdesk-hero.svg" alt="AssetDesk — official PROCESS IN product showcase" width="100%" /></a>

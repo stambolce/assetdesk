@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <img src="assets/assetdesk-hero.svg" alt="AssetDesk — платформа на PROCESS IN" width="100%" />
